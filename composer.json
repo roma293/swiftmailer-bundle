@@ -24,7 +24,7 @@
     ],
     "require": {
         "php": ">=7.1",
-        "swiftmailer/swiftmailer": "dev-fix-amp-order",
+        "swiftmailer/swiftmailer": "v6.2.4",
         "symfony/dependency-injection": "^4.3.8|^5.0",
         "symfony/http-kernel": "^4.3.8|^5.0",
         "symfony/config": "^4.3.8|^5.0"
